@@ -1,8 +1,17 @@
 ![awesome boilerplates](https://github.frapsoft.com/top/open-source-v1.png)
 
-# Awesome Boilerplates ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)] [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Awesome Boilerplates ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
-_Get the Job done quick with the right tooling_
+_... because life is to short too wast time on boring repeating tasks :)_
+
+## Status
+
+[![Deadlink Test](https://travis-ci.org/ellerbrock/awesome-boilerplates.svg?branch=master)](https://travis-ci.org/ellerbrock/awesome-boilerplates)
+
+**Info:** Greeen Build Status means there should be no Deadlinks in this List.<br>
+You can find the Testfiles on [travis-deadlink-scanner](https://github.com/ellerbrock/travis-deadlink-scanner).
+
+## Introduction
 
 Doing stuff over and over again is annoying and we are awesome open source developer and invest that time better. All the build and deploy tools, testing frameworks, virtualization stuff we life in pretty exiting times right now.
 
