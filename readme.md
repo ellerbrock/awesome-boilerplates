@@ -50,6 +50,12 @@ If you found some awesome stuff feel free to make a pull request.
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - A starting point for crafting living style guides.
 
+## Javascript CLI
+
+- [commander.js](https://github.com/tj/commander.js/) - Node.js command-line interfaces made easy
+- [vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs.
+- [Inquirer.js](https://github.com/sboudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+
 ## IoT
 
 - [johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup
