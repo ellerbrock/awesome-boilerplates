@@ -4,6 +4,7 @@
 *.pid
 *.org.md
 .tscache
+ab-results*
 /template.md
 /local
 /templates
