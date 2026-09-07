@@ -15,6 +15,7 @@ You can find this test here: [travis-deadlink-scanner](https://github.com/ellerb
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform`
 - [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) - Boilerplate and tooling for web application development based on React (ReactJS), Redux, Babel, Webpack ...
 - [vortigern](https://github.com/barbar/vortigern) - A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more.
+- [hype-stack](https://github.com/BetterTyped/hype-stack) - Free MIT fullstack SaaS monorepo with React, Hono, Vite, Postgres, Electron, Expo, and browser extension
 - [generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [generator-react-webpack](https://github.com/react`-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 with lots of features
