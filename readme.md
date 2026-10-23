@@ -28,6 +28,7 @@ You can find this test here: [travis-deadlink-scanner](https://github.com/ellerb
 
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - A starting point for crafting living style guides.
+- [nextjs-waitlist-double-opt-in](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in) - Next.js waitlist with double opt-in confirmation, a referral queue and a bulk launch email, sent via the Mailtrap Email API. TypeScript, Drizzle, SQLite.
 
 ## Javascript CLI
 
