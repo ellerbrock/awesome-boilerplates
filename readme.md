@@ -23,6 +23,7 @@ You can find this test here: [travis-deadlink-scanner](https://github.com/ellerb
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [semantic-release-cli](https://github.com/semantic-release/cli) - single command setup
 - [spa-github-pages](https://github.com/rafrex/spa-github-pages) - host single page apps with github pages
+- [express-email-otp-login](https://github.com/parv15/express-email-otp-login) - Express + TypeScript starter for passwordless login with email OTP and magic links
 
 ## Web Frontend
 
