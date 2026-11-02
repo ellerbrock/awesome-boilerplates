@@ -12,6 +12,7 @@ You can find this test here: [travis-deadlink-scanner](https://github.com/ellerb
 ## Web Development
 
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+- [express-email-otp-login](https://github.com/parv15/express-email-otp-login) - Passwordless login for Express with email one-time codes and magic links (TypeScript, SQLite)
 - [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform`
 - [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) - Boilerplate and tooling for web application development based on React (ReactJS), Redux, Babel, Webpack ...
 - [vortigern](https://github.com/barbar/vortigern) - A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more.
